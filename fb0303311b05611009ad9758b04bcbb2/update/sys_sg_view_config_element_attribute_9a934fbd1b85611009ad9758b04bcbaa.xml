@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute">
+    <sys_sg_view_config_element_attribute action="INSERT_OR_UPDATE">
+        <description/>
+        <name display_value="FieldValue">c2eed5c2b7321010df65f6efce11a9cf</name>
+        <sys_class_name>sys_sg_view_config_element_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 05:52:07</sys_created_on>
+        <sys_id>9a934fbd1b85611009ad9758b04bcbaa</sys_id>
+        <sys_name>c2eed5c2b7321010df65f6efce11a9cf</sys_name>
+        <sys_package display_value="Event Tracker" source="x_884454_event_tra">fb0303311b05611009ad9758b04bcbb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event Tracker">fb0303311b05611009ad9758b04bcbb2</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_attribute_9a934fbd1b85611009ad9758b04bcbaa</sys_update_name>
+        <translated_value/>
+        <value>number</value>
+        <view_config_element display_value="number-FieldValue">52934fbd1b85611009ad9758b04bcba9</view_config_element>
+    </sys_sg_view_config_element_attribute>
+    <sys_translated_text action="delete_multiple" query="documentkey=9a934fbd1b85611009ad9758b04bcbaa"/>
+</record_update>

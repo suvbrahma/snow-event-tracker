@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Event Tracker">4693477d1b85611009ad9758b04bcbf0</applet_launcher>
+        <icon display_value="Home Event Tracker">4a93477d1b85611009ad9758b04bcbf1</icon>
+        <label>Event Tracker</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 05:52:06</sys_created_on>
+        <sys_id>0a93477d1b85611009ad9758b04bcbf1</sys_id>
+        <sys_name>Event Tracker</sys_name>
+        <sys_package display_value="Event Tracker" source="x_884454_event_tra">fb0303311b05611009ad9758b04bcbb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event Tracker">fb0303311b05611009ad9758b04bcbb2</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_0a93477d1b85611009ad9758b04bcbf1</sys_update_name>
+    </sys_sg_applet_launcher_tab>
+</record_update>

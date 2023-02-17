@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b2738bbd1b85611009ad9758b04bcbb4" label="suvs-event-tracker" max_length="40" name="x_884454_event_tra_suvs_event_tracker" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Event Date" max_length="40" name="event_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

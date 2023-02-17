@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="event_date" label="Event Date" language="en" table="x_884454_event_tra_suvs_event_tracker">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>event_date</element>
+            <help/>
+            <hint/>
+            <label>Event Date</label>
+            <language>en</language>
+            <name>x_884454_event_tra_suvs_event_tracker</name>
+            <plural>Event Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-17 05:51:38</sys_created_on>
+            <sys_name>Event Date</sys_name>
+            <sys_package display_value="Event Tracker" source="x_884454_event_tra">fb0303311b05611009ad9758b04bcbb2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Event Tracker">fb0303311b05611009ad9758b04bcbb2</sys_scope>
+            <sys_update_name>sys_documentation_x_884454_event_tra_suvs_event_tracker_event_date_en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

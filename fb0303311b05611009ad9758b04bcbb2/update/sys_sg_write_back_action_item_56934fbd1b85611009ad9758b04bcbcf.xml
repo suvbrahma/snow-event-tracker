@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Edit (suvs-event-tracker)</name>
+        <parameter_screen/>
+        <query_condition table="x_884454_event_tra_suvs_event_tracker">sys_idSTARTSWITH{{suvs-event-tracker sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{suvs-event-tracker sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 05:52:07</sys_created_on>
+        <sys_id>56934fbd1b85611009ad9758b04bcbcf</sys_id>
+        <sys_name>Edit (suvs-event-tracker)</sys_name>
+        <sys_package display_value="Event Tracker" source="x_884454_event_tra">fb0303311b05611009ad9758b04bcbb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event Tracker">fb0303311b05611009ad9758b04bcbb2</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_56934fbd1b85611009ad9758b04bcbcf</sys_update_name>
+        <table>x_884454_event_tra_suvs_event_tracker</table>
+        <template>event_date={{suvs-event-tracker event_date}}^name={{suvs-event-tracker name}}^number={{suvs-event-tracker number}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=56934fbd1b85611009ad9758b04bcbcf"/>
+</record_update>

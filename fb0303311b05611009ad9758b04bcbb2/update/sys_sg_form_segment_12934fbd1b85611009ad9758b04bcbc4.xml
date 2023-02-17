@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Details">da934fbd1b85611009ad9758b04bcbc0</embedded_screen>
+        <form display_value="suvs-event-tracker Form Screen">de934fbd1b85611009ad9758b04bcbbf</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
+        <order>10</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 05:52:07</sys_created_on>
+        <sys_id>12934fbd1b85611009ad9758b04bcbc4</sys_id>
+        <sys_name/>
+        <sys_package display_value="Event Tracker" source="x_884454_event_tra">fb0303311b05611009ad9758b04bcbb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event Tracker">fb0303311b05611009ad9758b04bcbb2</sys_scope>
+        <sys_update_name>sys_sg_form_segment_12934fbd1b85611009ad9758b04bcbc4</sys_update_name>
+    </sys_sg_form_segment>
+</record_update>

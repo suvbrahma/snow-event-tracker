@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Event Tracker">4693477d1b85611009ad9758b04bcbf0</applet_launcher>
+        <order/>
+        <section display_value="suvs-event-tracker">5a934fbd1b85611009ad9758b04bcbd3</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 05:52:07</sys_created_on>
+        <sys_id>12934fbd1b85611009ad9758b04bcbd5</sys_id>
+        <sys_name/>
+        <sys_package display_value="Event Tracker" source="x_884454_event_tra">fb0303311b05611009ad9758b04bcbb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event Tracker">fb0303311b05611009ad9758b04bcbb2</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_12934fbd1b85611009ad9758b04bcbd5</sys_update_name>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

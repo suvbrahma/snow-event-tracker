@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (suvs-event-tracker)">1a934fbd1b85611009ad9758b04bcbca</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (suvs-event-tracker)</name>
+        <order/>
+        <parent>52934fbd1b85611009ad9758b04bcbbf</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 05:52:07</sys_created_on>
+        <sys_id>da934fbd1b85611009ad9758b04bcbcd</sys_id>
+        <sys_name>New (suvs-event-tracker)</sys_name>
+        <sys_package display_value="Event Tracker" source="x_884454_event_tra">fb0303311b05611009ad9758b04bcbb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event Tracker">fb0303311b05611009ad9758b04bcbb2</sys_scope>
+        <sys_update_name>sys_sg_button_instance_da934fbd1b85611009ad9758b04bcbcd</sys_update_name>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=da934fbd1b85611009ad9758b04bcbcd"/>
+</record_update>
